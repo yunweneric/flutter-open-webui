@@ -64,6 +64,7 @@ To contribute to this repo,
       </a>
     </td>
      <td>
+     Pending
     </td>
 
   </tr>
@@ -95,6 +96,5 @@ To contribute to this repo,
   </tr>
 
    </tr>
-
 
 </table>
