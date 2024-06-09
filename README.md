@@ -58,6 +58,15 @@ To contribute to this repo,
 ## Gallery
 
 <table>
+  <td>
+      <a href="https://github.com/yunweneric/flutter-open-animate/tree/nike-shop">
+        <img src="./assets/showcase/nike_shop.png" alt="Image 1" width="1000"/>
+      </a>
+    </td>
+     <td>
+    </td>
+
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/yunweneric/flutter-open-animate/tree/doughnut_shop">
@@ -86,14 +95,6 @@ To contribute to this repo,
   </tr>
 
    </tr>
-    <td>
-      <a href="https://github.com/yunweneric/flutter-open-animate/tree/nike-shop">
-        <img src="./assets/showcase/nike_shop.png" alt="Image 1" width="1000"/>
-      </a>
-    </td>
-     <td>
-    </td>
 
-  </tr>
 
 </table>
