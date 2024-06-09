@@ -92,7 +92,6 @@ To contribute to this repo,
       </a>
     </td>
      <td>
-     
     </td>
 
   </tr>
