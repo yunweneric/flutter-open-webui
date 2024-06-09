@@ -58,13 +58,13 @@ To contribute to this repo,
 ## Gallery
 
 <table>
+   <td>
+    Coming Soon !
+  </td>
   <td>
       <a href="https://github.com/yunweneric/flutter-open-animate/tree/nike-shop">
         <img src="./assets/showcase/nike_shop.png" alt="Image 1" width="1000"/>
       </a>
-    </td>
-     <td>
-     Pending
     </td>
 
   </tr>
