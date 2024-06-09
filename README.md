@@ -69,7 +69,7 @@ To contribute to this repo,
         <img src="./assets/showcase/nike_ui.png" alt="Image 1" width="1000"/>
       </a>
     </td>
-   
+  
    
   </tr>
     <td>
@@ -81,6 +81,18 @@ To contribute to this repo,
       <a href="https://github.com/yunweneric/flutter-open-animate/tree/car_rental">
         <img src="./assets/showcase/car.png" alt="Image 1" width="1000"/>
       </a>
+    </td>
+
+  </tr>
+
+   </tr>
+    <td>
+      <a href="https://github.com/yunweneric/flutter-open-animate/tree/nike-shop">
+        <img src="./assets/showcase/nike_shop.png" alt="Image 1" width="1000"/>
+      </a>
+    </td>
+     <td>
+     
     </td>
 
   </tr>
