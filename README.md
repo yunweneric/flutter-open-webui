@@ -59,7 +59,9 @@ To contribute to this repo,
 
 <table>
    <td>
-    Coming Soon !
+  <a href="https://github.com/yunweneric/flutter-open-animate/tree/watch_store">
+        <img src="./assets/showcase/watch_store.png" alt="Image 1" width="1000"/>
+      </a>
   </td>
   <td>
       <a href="https://github.com/yunweneric/flutter-open-animate/tree/nike-shop">
