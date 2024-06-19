@@ -58,6 +58,21 @@ To contribute to this repo,
 ## Gallery
 
 <table>
+
+  <tr>
+   <td>
+  <a href="https://github.com/yunweneric/flutter-open-animate/tree/dark_light_theme">
+        <img src="./assets/showcase/theming_dark.png" alt="Image 1" width="1000"/>
+      </a>
+  </td>
+  <td>
+      <a href="https://github.com/yunweneric/flutter-open-animate/tree/dark_light_theme-shop">
+        <img src="./assets/showcase/theming.png" alt="Image 1" width="1000"/>
+      </a>
+    </td>
+
+  </tr>
+  <tr>
    <td>
   <a href="https://github.com/yunweneric/flutter-open-animate/tree/watch_store">
         <img src="./assets/showcase/watch_store.png" alt="Image 1" width="1000"/>
