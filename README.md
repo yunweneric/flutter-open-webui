@@ -61,6 +61,19 @@ To contribute to this repo,
 
   <tr>
    <td>
+  <a href="#">
+      </a>
+  </td>
+  <td>
+      <a href="https://github.com/yunweneric/flutter-open-animate/tree/nat_geo_carousel">
+        <img src="./assets/showcase/nageo.jpg" alt="Image 1" width="1000"/>
+      </a>
+    </td>
+
+  </tr>
+
+  <tr>
+   <td>
   <a href="https://github.com/yunweneric/flutter-open-animate/tree/dark_light_theme">
         <img src="./assets/showcase/theming_dark.png" alt="Image 1" width="1000"/>
       </a>
