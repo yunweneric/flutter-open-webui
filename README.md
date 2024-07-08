@@ -4,6 +4,14 @@
 
 Flutter animated open-source project that's all about pushing the boundaries of User Interfaces! 🌟✨ If you're a Flutter enthusiast or just someone who appreciates stunning UI/UX, this project is tailor-made for you! 🚀🎨
 
+# !!! Depreciated
+
+The content of this project have been added to [Flutter Open UI](https://github.com/yunweneric/flutter-open-ui)!. You can still star or fork it but I will not be receiving pull request.
+
+Consider doing a PR in [Flutter Open UI](https://github.com/yunweneric/flutter-open-ui)!. Instead
+
+### Thanks
+
 ## Setup guide
 
 - Install and use [Fvm](https://fvm.app/) to manage your flutter version
@@ -58,20 +66,6 @@ To contribute to this repo,
 ## Gallery
 
 <table>
-
-  <tr>
-   <td>
-  <a href="#">
-      </a>
-  </td>
-  <td>
-      <a href="https://github.com/yunweneric/flutter-open-animate/tree/nat_geo_carousel">
-        <img src="./assets/showcase/nageo.jpg" alt="Image 1" width="1000"/>
-      </a>
-    </td>
-
-  </tr>
-
   <tr>
    <td>
   <a href="https://github.com/yunweneric/flutter-open-animate/tree/dark_light_theme">
@@ -79,11 +73,10 @@ To contribute to this repo,
       </a>
   </td>
   <td>
-      <a href="https://github.com/yunweneric/flutter-open-animate/tree/dark_light_theme-shop">
-        <img src="./assets/showcase/theming.png" alt="Image 1" width="1000"/>
+      <a href="https://github.com/yunweneric/flutter-open-animate/tree/nat_geo_carousel">
+        <img src="./assets/showcase/nageo.jpg" alt="Image 1" width="1000"/>
       </a>
     </td>
-
   </tr>
   <tr>
    <td>
