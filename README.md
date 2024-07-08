@@ -125,6 +125,4 @@ To contribute to this repo,
 
   </tr>
 
-   </tr>
-
 </table>
